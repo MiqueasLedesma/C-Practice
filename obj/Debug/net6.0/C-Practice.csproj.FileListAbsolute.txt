@@ -1,0 +1,15 @@
+/home/miqueasl/Documentos/C-Practice/bin/Debug/net6.0/C-Practice
+/home/miqueasl/Documentos/C-Practice/bin/Debug/net6.0/C-Practice.deps.json
+/home/miqueasl/Documentos/C-Practice/bin/Debug/net6.0/C-Practice.runtimeconfig.json
+/home/miqueasl/Documentos/C-Practice/bin/Debug/net6.0/C-Practice.dll
+/home/miqueasl/Documentos/C-Practice/bin/Debug/net6.0/ref/C-Practice.dll
+/home/miqueasl/Documentos/C-Practice/bin/Debug/net6.0/C-Practice.pdb
+/home/miqueasl/Documentos/C-Practice/obj/Debug/net6.0/C-Practice.csproj.AssemblyReference.cache
+/home/miqueasl/Documentos/C-Practice/obj/Debug/net6.0/C-Practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/miqueasl/Documentos/C-Practice/obj/Debug/net6.0/C-Practice.AssemblyInfoInputs.cache
+/home/miqueasl/Documentos/C-Practice/obj/Debug/net6.0/C-Practice.AssemblyInfo.cs
+/home/miqueasl/Documentos/C-Practice/obj/Debug/net6.0/C-Practice.csproj.CoreCompileInputs.cache
+/home/miqueasl/Documentos/C-Practice/obj/Debug/net6.0/C-Practice.dll
+/home/miqueasl/Documentos/C-Practice/obj/Debug/net6.0/ref/C-Practice.dll
+/home/miqueasl/Documentos/C-Practice/obj/Debug/net6.0/C-Practice.pdb
+/home/miqueasl/Documentos/C-Practice/obj/Debug/net6.0/C-Practice.genruntimeconfig.cache
